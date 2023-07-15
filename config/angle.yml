@@ -1,0 +1,9 @@
+Split:
+  enlarge: 4
+  enhance_contrast: True
+  threshold: 170
+  adaptedThreshold: True
+  threshold_bias: 0
+  min_area: 100
+  close_morphology: False
+  kernel_size: (3,3)
